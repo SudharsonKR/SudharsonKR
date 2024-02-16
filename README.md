@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sudharsonkr&label=Profile%20views&color=0e75b6&style=flat" alt="sudharsonkr" /> </p>
 
+- 😎About Me **I am actively seeking a MERN Stack development position. Eager and skilled in Full Stack (MERN), I have successfully completed a certification course. Excellent work efficiency and quick learning capabilities.**
+
 - 💬 Ask me about **MERN**
 
 - 📫 How to reach me **sudharsonkr@gmail.com**
